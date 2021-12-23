@@ -2,7 +2,8 @@
 
 Ezt a Swing applikációt Programozás 3 tantárgy beadandója ként készítettem el az MVC Model alapján. Jeles érdem jegyet kaptam rá.
 
-Felhasználói felület:
+<b>Az applikáció felhasználói felülete:</b>
+
 ![fãoldal](https://user-images.githubusercontent.com/22506745/147293417-bd53ab95-2313-4cdc-9bbb-1ca2b4dd168f.png)
 ![delete](https://user-images.githubusercontent.com/22506745/147293450-9bd631a2-fb66-4067-a9d5-18b8c159f4c6.png)
 ![exportalas](https://user-images.githubusercontent.com/22506745/147293454-38c55471-af09-4105-ae84-0a4dcad23a67.png)
